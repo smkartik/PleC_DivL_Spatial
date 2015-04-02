@@ -24,7 +24,7 @@ GET_INIT.m is the main file. As explained above, it takes a single argument in t
 
 MAIN_EVENTS.m simulates a Cauloacter cell growing from swarmer up to predivisional stage prior to compartmentalization (early PD).  
 
-EVENTS.m contains information on when an event takes place. In our mode, an event is defined as an enforced change in the location of proteins CckA, DivL, DivJ or PleC.  
+EVENTS.m contains information on when an event takes place. In our model, an event is defined as an enforced change in the location of proteins CckA, DivL, DivJ or PleC.  
 
 ODES_DIV.m is similar to odes.m except that proteins are not allowed to diffuse across mid-cell. 
 
