@@ -2,7 +2,7 @@
 Matlab code for simulating results shown in the manuscript 'Dynamical Localization of DivL and PleC in the Asymmetric Division Cycle  of Caulobacter crescentus: A Theoretical Investigation of Alternative Models'
 
 The master file to run the code is get_init.m. To simulate wild type or a particular mutant, enter the appropriate string from the list below
->>['wild_type', 'del_plec', 'plec_f778l', 'divk_ovex', 'divl_misloc', 'divl_deloc', 'divk_d90g', 'plec_f778l']
+>>['wild_type', 'del_plec', 'plec_f778l', 'divk_ovex', 'divl_misloc', 'divl_deloc', 'divk_d90g', 'plec_h610a']
 
 For example, to simulate PleC deletion, enter the following line of code in Matlab
 
