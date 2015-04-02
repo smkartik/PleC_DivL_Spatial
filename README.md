@@ -16,7 +16,7 @@ The space-time simulation will be plotted at then end. The complete simulation t
 
 THE DETAILS OF EACH .m FILE ARE EXPLAINED BELOW
 
-PARAM.m contains the full list of parameters (rate and diffusion constants). It takes 2 arguments. the first argument specifies whether we are simulating a cell of fixed size (0) or a growing cell (1). The second argument specifeis which cell type is to be simulated.
+PARAM.m contains the full list of parameters (rate and diffusion constants). It takes 2 arguments. the first argument specifies whether we are simulating a cell of fixed size (0) or a growing cell (1). The second argument specifies which cell type is to be simulated.
 
 ODES.m contains the complete list of differential equations.
 
