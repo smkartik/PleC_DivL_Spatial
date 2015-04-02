@@ -5,10 +5,12 @@ The master file to run the code is get_init.m. To simulate wild type or a partic
 ['wild_type', 'del_plec', 'plec_f778l', 'divk_ovex', 'divl_misloc', 'divl_deloc', 'divk_d90g', 'plec_f778l']
 
 For example, to simulate PleC deletion, enter the following line of code in Matlab
-initial_cond = get_init('del_plec')
+
+>>initial_cond = get_init('del_plec')
 
 Or to simulate DivK overexpression,
-initial_cond = get_init('divk_ovex')
+
+>>initial_cond = get_init('divk_ovex')
 
 The space-time simulation will be plotted at then end. The complete simulation takes approximately 20 mins (2.8 Ghz intel core I5)
 
