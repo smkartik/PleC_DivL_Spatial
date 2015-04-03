@@ -12,7 +12,7 @@ Or to simulate DivK overexpression,
 
 >>initial_cond = get_init('divk_ovex')
 
-The space-time simulation will be plotted at then end. The complete simulation takes approximately 20 mins (2.8 Ghz intel core I5)
+The space-time simulation will be plotted at the end. The complete simulation takes approximately 20 mins (2.8 Ghz intel core I5)
 
 ##############################################################################################################################
 
